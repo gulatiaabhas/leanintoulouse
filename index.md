@@ -7,6 +7,7 @@ Hi everyone!
 We have started a workgroup to learn Lean language to learn the basics of formalising mathematics, and we invite anyone interested in Toulouse to join this group. 
 This website will be a repository of all the material covered in the workgroup, notes, videos, and lectures. We will also try to make the lean files available for reference. 
 We hope that this will be a weekly thing, and people try to get a hands-on experience with the software. Hope to see you at the next meeting. 
+
 Aabhas Gulati and Ion Nechita
 
 
@@ -24,7 +25,7 @@ Goals
 
 ## Friday March 7th, 2pm, FERMI seminar room 
 
-Introductions and set-up. The main webpage for Lean 4: https://leanprover-community.github.io/
+Introductions and set-up. The main webpage for [Lean 4](https://leanprover-community.github.io/)
 
 Installation instructions: 
 - Follow these instructions to get your lean up and working [Install Lean](https://leanprover-community.github.io/get_started.html#regular-install)

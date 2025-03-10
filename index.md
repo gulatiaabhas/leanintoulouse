@@ -13,17 +13,18 @@ This website will be used as a repository of the helpful content we find online.
 
 ## Friday March 14th, 2pm, Salle F. Pellos (1R2-207)
 
-Run some examples and discuss project ideas - think abous some simple result that you would like to formalize in Lean. 
+Goals
+- Look at some problems.
+- Discuss project ideas - think abous some simple result in your field that you would like to formalize in Lean. We hope you work in groups. 
+- We will spend the next sessions discussing these mini-projects. 
 
 ## Friday March 7th, 2pm, FERMI seminar room 
 
-Introductions and set-up. 
-
-The main webpage for Lean: https://leanprover-community.github.io/
+Introductions and set-up. The main webpage for Lean 4: https://leanprover-community.github.io/
 
 Installation instructions: 
-- first install Lean https://leanprover-community.github.io/get_started.html#regular-install
-- set up your first project https://leanprover-community.github.io/install/project.html
+- Follow these instructions to get your lean up and working [Install Lean](https://leanprover-community.github.io/get_started.html#regular-install)
+- Then follow these steps to create your first lean project [Set up a project](https://leanprover-community.github.io/install/project.html)
 
 The [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4) is a good place to start when learning the basics of Lean. 
 

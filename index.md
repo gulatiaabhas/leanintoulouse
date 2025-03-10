@@ -2,7 +2,7 @@
 title: Lean 4 Workgroup in Toulouse
 ---
 
-Hey guys!
+Hi everyone!
 
 Me and Ion Nechita have started a workgroup to learn Lean in Toulouse! 
 

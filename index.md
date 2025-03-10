@@ -4,9 +4,10 @@ title: Lean 4 Workgroup in Toulouse
 
 Hi everyone!
 
-Me and Ion Nechita have started a workgroup to learn Lean in Toulouse! 
-
-This website will be used as a repository of the helpful content we find online. It might also feature recordings of the sessions (if its possible to do so), and the important learning outcomes of each session. Anyone who is a participant in the workgroup can contribute to this website. 
+We have started a workgroup to learn Lean language to learn the basics of formalising mathematics, and we invite anyone interested in Toulouse to join this group. 
+This website will be a repository of all the material covered in the workgroup, notes, videos, and lectures. We will also try to make the lean files available for reference. 
+We hope that this will be a weekly thing, and people try to get a hands-on experience with the software. Hope to see you at the next meeting. 
+Aabhas Gulati and Ion Nechita
 
 
 # Upcoming Meetings

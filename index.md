@@ -13,8 +13,7 @@ Aabhas Gulati and Ion Nechita
 
 # Upcoming Meetings
 
-## Friday March 21st, 
-
+## Friday March 21st, 3:15pm, Salle F. Pellos (1R2-207)
 
 
 
@@ -24,6 +23,12 @@ Aabhas Gulati and Ion Nechita
 ## Friday March 14th, 2pm, Salle F. Pellos (1R2-207)
 
 [Lean4 cheatsheet](https://raw.githubusercontent.com/madvorak/lean4-cheatsheet/main/lean-tactics.pdf)
+
+We went line by line through some simple proofs involving [even](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/even.lean) numbers. 
+
+We decided on a [homework](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/squeeze.lean) for next time, following the lemma from [video](https://www.youtube.com/watch?v=I2zaPoj3G50).
+
+
 
 
 ## Friday March 7th, 2pm, FERMI seminar room 

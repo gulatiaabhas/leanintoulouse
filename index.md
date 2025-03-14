@@ -13,14 +13,17 @@ Aabhas Gulati and Ion Nechita
 
 # Upcoming Meetings
 
-## Friday March 14th, 2pm, Salle F. Pellos (1R2-207)
+## Friday March 21st, 
 
-Goals
-- Look at some problems.
-- Discuss project ideas - think abous some simple result in your field that you would like to formalize in Lean. We hope you work in groups. 
-- We will spend the next sessions discussing these mini-projects. 
+
+
 
 # Past Meetings 
+
+
+## Friday March 14th, 2pm, Salle F. Pellos (1R2-207)
+
+[Lean4 cheatsheet](https://raw.githubusercontent.com/madvorak/lean4-cheatsheet/main/lean-tactics.pdf)
 
 
 ## Friday March 7th, 2pm, FERMI seminar room 

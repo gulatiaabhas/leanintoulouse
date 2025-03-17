@@ -26,7 +26,7 @@ Aabhas Gulati and Ion Nechita
 
 We went line by line through some simple proofs involving [even](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/even.lean) numbers. 
 
-We decided on a [homework](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/squeeze.lean) for next time, following the lemma from [video](https://www.youtube.com/watch?v=I2zaPoj3G50).
+We decided on a [homework](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/squeeze.lean) for next time, following the lemma from this [video](https://www.youtube.com/watch?v=I2zaPoj3G50).
 
 
 

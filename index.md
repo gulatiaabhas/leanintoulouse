@@ -16,7 +16,7 @@ Aabhas Gulati and Ion Nechita
 ## Friday March 28th, 2:00 pm, Salle F. Pellos (1R2-207)
 Last week's homework is to formalise your favourite theorem in Group Theory. There are a few helpful resources, [Groups and Lean](https://leanprover-community.github.io/mathematics_in_lean/C08_Groups_and_Rings.html) and [Formalisation of basic group theory in Lean](https://tqft.net/web/notes/load.php?name=students/20180219-MitchRowett-ASC-report-on-Lean). 
 
-We will spend the meeting discussing this 
+We will spend the meeting discussing this. See you there!
 
 
 ## Friday March 21st, 3:15pm, Salle F. Pellos (1R2-207)
@@ -31,7 +31,6 @@ If there is a group G such that for all $x \in G$, we have $x^2 = 1$, then it im
 The lean file for this theorem can be found [here](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/group-theory.lean)
 
 
-See you there
 
 # Past Meetings 
 

@@ -14,8 +14,15 @@ Aabhas Gulati and Ion Nechita
 # Upcoming Meetings
 
 ## Friday March 21st, 3:15pm, Salle F. Pellos (1R2-207)
+We discussed the [homework](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/squeeze.lean)
+Here is the example [solution file]()
 
+We also discussed proofs of a basic theorem in group theory 
 
+Theorem 
+If there is a group G such that for all $x \in G$, we have $x^2 = 1$, then it implies that the group is Abelian. 
+
+The lean file for this theorem can be found [here]()
 
 # Past Meetings 
 

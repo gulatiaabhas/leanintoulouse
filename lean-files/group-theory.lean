@@ -24,19 +24,3 @@ repeat rw[← mul_assoc] at new_mul
 rw[hyy] at new_mul
 rw[one_mul] at new_mul
 exact new_mul
-
--- Proof 2 of this theorem
-
-theorem group_abelian_2 (G : Type*) [Group G] (h : ∀ x : G, x * x = 1) : (∀ x y : G , x * y = y * x) := by 
-
-intro x y 
-have hxy := h (x*y)
-have hyx := h (y*x)
-
-have hxx := h x 
-have hyy := h y
-
-have mul : (x * x) * y * (x * y) = x * 1 :=  
-calc 
-(x * x) * y * (x * y) = x * (x * y * (x * y)) := by group
-x * (x * y * (x * y)) = x * 1 := by rw[hxy]

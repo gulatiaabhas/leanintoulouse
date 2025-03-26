@@ -19,6 +19,8 @@ Last week's homework is to formalise your favourite theorem in Group Theory. The
 We will spend the meeting discussing this. See you there!
 
 
+# Past Meetings 
+
 ## Friday March 21st, 3:15pm, Salle F. Pellos (1R2-207)
 We discussed the [homework](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/squeeze.lean) and we have updated the file with the proof. 
 
@@ -32,7 +34,7 @@ The lean file for this theorem can be found [here](https://github.com/gulatiaabh
 
 
 
-# Past Meetings 
+
 
 
 ## Friday March 14th, 2pm, Salle F. Pellos (1R2-207)

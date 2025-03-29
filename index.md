@@ -13,13 +13,16 @@ Aabhas Gulati and Ion Nechita
 
 # Upcoming Meetings
 
-## Friday March 28th, 2:00 pm, Salle F. Pellos (1R2-207)
-Last week's homework is to formalise your favourite theorem in Group Theory. There are a few helpful resources, [Groups and Lean](https://leanprover-community.github.io/mathematics_in_lean/C08_Groups_and_Rings.html) and [Formalisation of basic group theory in Lean](https://tqft.net/web/notes/load.php?name=students/20180219-MitchRowett-ASC-report-on-Lean). 
 
-We will spend the meeting discussing this. See you there!
+## Friday April 4th, 2:00 pm, Salle F. Pellos (1R2-207)
+
+Everyone should formalize their favourite theorem about *vector spaces*. 
 
 
 # Past Meetings 
+
+## Friday March 28th, 2:00 pm, Salle F. Pellos (1R2-207)
+Last week's homework is to formalise your favourite theorem in Group Theory. There are a few helpful resources, [Groups and Lean](https://leanprover-community.github.io/mathematics_in_lean/C08_Groups_and_Rings.html) and [Formalisation of basic group theory in Lean](https://tqft.net/web/notes/load.php?name=students/20180219-MitchRowett-ASC-report-on-Lean). 
 
 ## Friday March 21st, 3:15pm, Salle F. Pellos (1R2-207)
 We discussed the [homework](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/squeeze.lean) and we have updated the file with the proof. 

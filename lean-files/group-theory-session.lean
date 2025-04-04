@@ -204,30 +204,32 @@ theorem cosets_disjoint_or_equal (G : Type*) [Group G] (H : Subgroup G) :
 
 /- *** :-) *** -/
 
-
--- Groups or order 2 are abelian 
-
-/-- Any group of order 2 is commutative -/
-
-
+-- Groups of order 2 are commutative
 theorem group_order_2_is_comm
-    {G : Type*} [Group G] (h : Nat.card G = 2) : CommGroup G  := by
+    {G : Type*} [Group G]  (h : Nat.card G = 2) :
+    (∀ a b : G, a * b = b * a ) := by
 
-    constructor
+    rw [Nat.card_eq_two_iff' 1] at h
+    obtain ⟨y, hy, hy_u⟩ := h
+    simp at hy_u
 
     intro a b
 
+    have ha : a = 1 ∨ a = y := by exact or_iff_not_imp_left.mpr (hy_u a)
+    have hb : b = 1 ∨ b = y := by exact or_iff_not_imp_left.mpr (hy_u b)
 
-    rw [Nat.card_eq_two_iff] at h
+    by_cases heq : a = b
+    rw [heq]
 
-    obtain ⟨x, y, h_neq, h_all⟩ := h
+    by_cases ha_eq_1 : a = 1
+    rw [ha_eq_1,one_mul,mul_one]
 
+    have ha_eq_y : a = y := by exact hy_u a ha_eq_1
 
-    by_cases ha : a = 1
-      rw [ha, one_mul, mul_one]
+    by_cases hb_eq_y : b = y
+    rw [hb_eq_y] at heq
+    contradiction
 
-    by_cases hb : b = 1
-      rw [hb, mul_one, one_mul]
+    have hb_eq_1 : b = 1 := by simp_all
 
-
-    sorry
+    rw [hb_eq_1,mul_one,one_mul]

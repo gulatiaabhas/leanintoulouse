@@ -12,14 +12,19 @@ Aabhas Gulati and Ion Nechita
 
 
 # Upcoming Meetings
-
-
-## Friday April 4th, 2:00 pm, Salle F. Pellos (1R2-207)
-
-Everyone should formalize their favourite theorem about *vector spaces*. 
+## Friday April 4th, 3:15 pm, Salle F. Pellos (1R2-207)
+- Homework : Schur's Lemma (statement of the theorem [here](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/schur_lemma_statement.lean))
 
 
 # Past Meetings 
+
+## Friday April 4th, 2:00 pm, Salle F. Pellos (1R2-207)
+
+- We discusssed the proofs of the theorem ["Every group of cardinality 2 is abelian"](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/group-theory-session.lean) 
+- The theorem about vector spaces "Injectivity <=> Ker = 0" was formalised [here](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/exo_vector_spaces.lean)
+
+Thanks to Francois for providing all these proofs. 
+
 
 ## Friday March 28th, 2:00 pm, Salle F. Pellos (1R2-207)
 

@@ -12,7 +12,7 @@ Aabhas Gulati and Ion Nechita
 
 
 # Upcoming Meetings
-## Friday April 4th, 3:15 pm, Salle F. Pellos (1R2-207)
+## Friday April 11th, 3:15 pm, Salle F. Pellos (1R2-207)
 - Homework : Schur's Lemma (statement of the theorem [here](https://github.com/gulatiaabhas/leanintoulouse/blob/main/lean-files/schur_lemma_statement.lean))
 
 
